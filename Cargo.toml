@@ -1,0 +1,27 @@
+[workspace]
+
+members = [
+    "advanced_generics",
+    "async_ex",
+    "borrow",
+    "closure",
+    "con_utils",
+    "concurrency",
+    "data_structure",
+    "ffi_bzlib_sys",
+    "fib",
+    "guessing_game",
+    "hash_table",
+    "hello",
+    "hello_rust",
+    "httpie",
+    "lifetime",
+    "multi_owner",
+    "ownership",
+    "scrape_url",
+    "smart_pointers",
+    "sys_traits",
+    "thumbor",
+    "traits",
+    "type_system",
+]
