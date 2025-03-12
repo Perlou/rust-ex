@@ -9,6 +9,7 @@ members = [
     "con_utils",
     "concurrency",
     "data_structure",
+    "doc",
     "ffi_bzlib_sys",
     "fib",
     "guessing_game",
