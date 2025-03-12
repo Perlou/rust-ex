@@ -3,6 +3,7 @@
 members = [
     "advanced_generics",
     "async_ex",
+    "async_stream",
     "borrow",
     "closure",
     "con_utils",
