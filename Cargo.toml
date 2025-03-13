@@ -7,7 +7,7 @@ members = [
     "borrow",
     "closure",
     "con_utils",
-    "concurrency",
+    "concurrency", "data_processing",
     "data_structure",
     "doc",
     "ffi_bzlib_sys",
