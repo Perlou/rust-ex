@@ -17,7 +17,7 @@ members = [
     "hello",
     "hello_rust",
     "httpie",
-    "lifetime",
+    "lifetime", "macros",
     "multi_owner",
     "ownership",
     "scrape_url",
